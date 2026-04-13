@@ -34,11 +34,11 @@ Sou desenvolvedor front-end especializado em **sites institucionais e landing pa
 
 ## Vamos trabalhar juntos?
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabricio-henrique-fh](https://www.linkedin.com/in/fabriciohenriquefh/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabriciohenriquefh/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5519981577861)
 [![Site](https://img.shields.io/badge/fhdigitalmarketing.com-000?style=flat&logo=googlechrome&logoColor=white)](https://fhdigitalmarketing.com)
 [![Email](https://img.shields.io/badge/fabricio@fhdigitalmarketing.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:fabricio@fhdigitalmarketing.com)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=programadorfabricio&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=programadorfabricio&show_icons=true&show_icons=true&theme=tokyonight&hide_border=true)
