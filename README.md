@@ -1,13 +1,13 @@
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Ol%C3%A1%2C+sou+a+Fabricio!+%F0%9F%91%8B;Front-end+Developer;Sites+que+convertem+%F0%9F%9A%80)
+<!-- Typing SVG — personalize em https://readme-typing-svg.herokuapp.com -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Ol%C3%A1%2C+sou+o+Fabricio!+%F0%9F%91%8B;Front-end+Developer;Sites+que+convertem+%F0%9F%9A%80)
 
 ## Sobre mim
 
-Sou desenvolvedora front-end especializada em **sites institucionais e landing pages** para pequenos negócios e empreendedores. Transformo ideias em experiências digitais que geram resultados reais.
+Sou desenvolvedor front-end especializado em **sites institucionais e landing pages** para pequenos negócios e empreendedores. Transformo ideias em experiências digitais que geram resultados reais.
 
-- Fundadora da **[FH Digital](https://fhdigitalmarketing.com)** — desenvolvimento + marketing digital
+- Fundador da **[FH Digital](https://fhdigitalmarketing.com)** — desenvolvimento + marketing digital
 - Foco em sites rápidos, acessíveis e otimizados para SEO
-- Localizada em **Sumaré, SP** — atendo todo o Brasil remotamente
+- Localizado em **Sumaré, SP** — atendo todo o Brasil remotamente
 
 ---
 
@@ -35,7 +35,7 @@ Sou desenvolvedora front-end especializada em **sites institucionais e landing p
 ## Vamos trabalhar juntos?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabricio-henrique-fh)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5519XXXXXXXXX)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5519981577861)
 [![Site](https://img.shields.io/badge/fhdigitalmarketing.com-000?style=flat&logo=googlechrome&logoColor=white)](https://fhdigitalmarketing.com)
 [![Email](https://img.shields.io/badge/fabricio@fhdigitalmarketing.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:fabricio@fhdigitalmarketing.com)
 
